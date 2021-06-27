@@ -20,6 +20,6 @@ application to share files.
 
 <img src="https://github.com/mohanbera/ShareX/blob/main/Project%20Images/Screenshot_2021-06-27-20-39-54-290_com.example.myapplication.png" alt="drawing" width="400"/>
 
-<h2>After the file has been transfered click on the 'back icon' to transfer file again.</h2>
+<h2>After the file has been transfered or receeived click on the 'back icon' to transfer or receive file again.</h2>
 <img src="https://github.com/mohanbera/ShareX/blob/main/Project%20Images/Screenshot_20210627-170719.png" alt="drawing" width="400"/>
 
