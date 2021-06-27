@@ -16,7 +16,7 @@ application to share files.
 
 <img src="https://github.com/mohanbera/ShareX/blob/main/Project%20Images/Screenshot_20210627-203209.png" alt="drawing" width="400"/>
 
-<h2>On the other phone you will can the file is being received.</h2>
+<h2>On the other phone you can see the file is being received. If you can't find the file, it is stored in '/storage/shareX' folder. </h2>
 
 <img src="https://github.com/mohanbera/ShareX/blob/main/Project%20Images/Screenshot_2021-06-27-20-39-54-290_com.example.myapplication.png" alt="drawing" width="400"/>
 
