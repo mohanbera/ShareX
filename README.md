@@ -3,7 +3,7 @@ application to share files.
 
 <h3> Turn on your hostspot and</h2>
 
-![](https://github.com/mohanbera/ShareX/blob/main/Project%20Images/Screenshot_2021-06-27-12-52-33-426_com.example.myapplication.png)
+<img src="https://github.com/mohanbera/ShareX/blob/main/Project%20Images/Screenshot_2021-06-27-12-52-33-426_com.example.myapplication.png" alt="drawing" width="200"/>
 
 <h2> Without play list</h2>
 
