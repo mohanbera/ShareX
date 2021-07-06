@@ -23,3 +23,8 @@ application to share files.
 <h2>After the file has been transfered or receeived click on the 'back icon' to transfer or receive file again.</h2>
 <img src="https://github.com/mohanbera/ShareX/blob/main/Project%20Images/Screenshot_20210627-170719.png" alt="drawing" width="400"/>
 
+<h2>If you want to select multiple files open File Manager, Music Player, gallery or any other app to select files, then select the files you want to send, click on 'send' or 'share' then select 'ShareX' app to send it.</h2>
+<img src="https://github.com/mohanbera/ShareX/blob/main/Project%20Images/Screenshot_2021-07-06-21-23-50-636_android.png" alt="drawing" width="400"/>
+
+<h2>Now you can see the number of files you have selected, now click on 'SEND' to send these files.</h2>
+<img src="https://github.com/mohanbera/ShareX/blob/main/Project%20Images/Screenshot_2021-07-06-21-26-20-557_com.example.myapplication.png" alt="drawing" width="400"/>
